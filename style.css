@@ -87,6 +87,13 @@ body{
   border-top: 5px solid var(--Blue);
   position: relative;
 }
+.template1,
+.template2,
+.template3,
+.template4{
+  box-shadow: 5px 5px 6px var(--Grayish-Blue);
+}
+
 h3,
 h4,
 h5,
